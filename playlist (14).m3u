@@ -11,3 +11,7 @@ udp://@239.50.50.1:49152
 udp://@239.50.50.4:49152
 #EXTINF:0,MTV
 udp://@239.50.50.6:49152
+#EXTINF:0,HD Cartoon Network
+udp://@239.50.51.1:49152
+#EXTINF:0,HD Animal Planet
+udp://@239.50.51.2:49152
