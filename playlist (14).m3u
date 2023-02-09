@@ -13,7 +13,5 @@ udp://@239.50.50.4:49152
 udp://@239.50.50.6:49152
 #EXTINF:0,HD Cartoon Network
 udp://@239.50.51.1:49152
-#EXTINF:0,HD Animal Planet
-udp://@239.50.51.2:49152
 #EXTINF:0,HD MEGA
 udp://@239.50.52.1:49152
